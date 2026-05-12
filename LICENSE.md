@@ -1,4 +1,4 @@
-# 
+# automatic nft trading bot | volume-analysis + trailing-stop offers the most advanced nft trading bot, with volume-analysis and trailing-stop. Ideal for professional NFT traders
 
 
 
